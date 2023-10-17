@@ -15,7 +15,7 @@ const assert = require('node:assert');
   assert(await page.title() === 'Example Domain'); // 👎 not a Web First assertion
 
   setInterval(() => {
-    console.log('done2223');
+    console.log('done22234');
   }, 1000)
 
   // Teardown
